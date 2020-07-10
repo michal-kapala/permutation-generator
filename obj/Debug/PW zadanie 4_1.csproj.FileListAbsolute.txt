@@ -1,0 +1,10 @@
+C:\Users\Michal\Desktop\Sprawozdania\PW\PW zadanie 4_1\bin\Debug\PW zadanie 4_1.exe.config
+C:\Users\Michal\Desktop\Sprawozdania\PW\PW zadanie 4_1\bin\Debug\PW zadanie 4_1.exe
+C:\Users\Michal\Desktop\Sprawozdania\PW\PW zadanie 4_1\bin\Debug\PW zadanie 4_1.pdb
+C:\Users\Michal\Desktop\Sprawozdania\PW\PW zadanie 4_1\obj\Debug\PW_zadanie_4_1.Form1.resources
+C:\Users\Michal\Desktop\Sprawozdania\PW\PW zadanie 4_1\obj\Debug\PW_zadanie_4_1.Properties.Resources.resources
+C:\Users\Michal\Desktop\Sprawozdania\PW\PW zadanie 4_1\obj\Debug\PW zadanie 4_1.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\Sprawozdania\PW\PW zadanie 4_1\obj\Debug\PW zadanie 4_1.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\Sprawozdania\PW\PW zadanie 4_1\obj\Debug\PW zadanie 4_1.exe
+C:\Users\Michal\Desktop\Sprawozdania\PW\PW zadanie 4_1\obj\Debug\PW zadanie 4_1.pdb
+C:\Users\Michal\Desktop\Sprawozdania\PW\PW zadanie 4_1\obj\Debug\PW zadanie 4_1.csprojAssemblyReference.cache
